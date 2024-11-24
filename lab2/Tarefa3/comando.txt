@@ -3,7 +3,7 @@
 
 # entre no terminal docker do lab
 
-# crie a pasta ex tarefa3
+# crie a pasta ex tarefa3    
 # mkdir tarefa3
 
 # cd tarefa3
