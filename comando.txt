@@ -1,0 +1,37 @@
+# dentro do docker desktop crie um lab
+# copie esses arquivos para dentro do container criado lab
+
+# entre no terminal docker do lab
+
+# crie a pasta ex tarefa3
+# mkdir tarefa3
+
+# cd tarefa3
+
+# vi main.tarefa
+
+# aperte a tecla i-de insert
+
+# copie e arquivo que estão dentro main
+
+#cole no vi_
+
+# esc
+
+# :w
+# :q
+# ls
+
+# repita os passos acima para terraform e variables
+
+
+
+terraform init
+
+terraform apply
+
+terraform destroy 
+
+
+
+
