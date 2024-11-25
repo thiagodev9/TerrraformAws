@@ -1,8 +1,25 @@
+#criação no container 
+
+#volte para pasta lab2
+
+mkdir tarefa4
+#crie toda estrutura
+mkdir modules
+#dentro modules 
+mkdir ec2-instances
+#dentro instance copie arquivos local 
+vi main.tf 
+i 
+#copie - cole 
+esc 
+:w
+:q
+ls
+
+repita os passos acima para outputs.tf   variables.tf  e arquivos da raiz também
 
 
-
-
-
+# feito passos acima execute
 terraform init 
 
 terraform apply
